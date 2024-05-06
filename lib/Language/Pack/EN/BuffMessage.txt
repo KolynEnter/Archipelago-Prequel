@@ -1,0 +1,2 @@
+@0 countered @1's attack.
+@0 received @1 return damage due to [@2].

@@ -1,0 +1,4 @@
+A strong light is illuminating @0.
+@0 is attempting to enter @1's dream.
+@0 is polishing @1 weapon.
+@0 is speeding up.

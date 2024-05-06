@@ -1,0 +1,13 @@
+Afraid
+Attack Down
+Attack Up
+Polishing
+Blind
+Bleeding
+Burning
+Poisoned
+Swift
+Dead
+Frozen
+Sword Defense
+Sleeping

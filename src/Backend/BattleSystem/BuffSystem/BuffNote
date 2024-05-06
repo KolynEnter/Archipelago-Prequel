@@ -1,0 +1,12 @@
+Buff Trigger Code
+
+0   BeforeTurn
+1   AfterTurn
+2   BeforeUseCard
+3   AfterUseCard
+4   BeforeAttack
+5   AfterAttack
+6   BeforeDamaged
+7   AfterDamaged
+8   BeforeHealed
+9   AfterHealed

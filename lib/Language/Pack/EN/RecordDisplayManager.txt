@@ -1,0 +1,11 @@
+This is the start of record.
+@0 received [@1] damage.
+@0 used [@1].
+@0's [@1] activated.
+@0 is affected with [@1].
+Your mana is insufficient, @0 requires @1 mana.
+Sorry, it is not your turn yet.
+Your turn has started.
+@0's attack to @1 was missed.
+@0 resisted @1.
+@0 launched a critical attack!
